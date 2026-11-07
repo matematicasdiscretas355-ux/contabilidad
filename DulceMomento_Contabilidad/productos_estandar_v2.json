@@ -1,0 +1,144 @@
+{
+  "productos": {
+    "Pastel de Fresas con Crema": {
+      "nombre": "Pastel de Fresas con Crema",
+      "descripcion": "Pastel artesanal de vainilla, relleno de crema y fresas frescas. Decorado con crema batida y fresas. Rinde aproximadamente de 10 a 12 porciones.",
+      "cantidad": 20,
+      "cantidad_real": 20,
+      "precio_venta": 50.0,
+      "crecimiento": 10.0,
+      "ingredientes": [
+        {
+          "Ingrediente": "Harina",
+          "Unidad": "g",
+          "Cantidad estándar": 100,
+          "Precio estándar Q": 0.0,
+          "Cantidad real": 0.0,
+          "Precio real Q": 0.0,
+          "Proveedor": ""
+        },
+        {
+          "Ingrediente": "Azúcar",
+          "Unidad": "g",
+          "Cantidad estándar": 250,
+          "Precio estándar Q": 0.0,
+          "Cantidad real": 0.0,
+          "Precio real Q": 0.0,
+          "Proveedor": ""
+        },
+        {
+          "Ingrediente": "Huevos",
+          "Unidad": "unidad",
+          "Cantidad estándar": 5,
+          "Precio estándar Q": 0.0,
+          "Cantidad real": 0.0,
+          "Precio real Q": 0.0,
+          "Proveedor": ""
+        },
+        {
+          "Ingrediente": "Leche",
+          "Unidad": "ml",
+          "Cantidad estándar": 200,
+          "Precio estándar Q": 0.0,
+          "Cantidad real": 0.0,
+          "Precio real Q": 0.0,
+          "Proveedor": ""
+        },
+        {
+          "Ingrediente": "Aceite vegetal",
+          "Unidad": "ml",
+          "Cantidad estándar": 100,
+          "Precio estándar Q": 0.0,
+          "Cantidad real": 0.0,
+          "Precio real Q": 0.0,
+          "Proveedor": ""
+        },
+        {
+          "Ingrediente": "Polvo de hornear",
+          "Unidad": "g",
+          "Cantidad estándar": 12,
+          "Precio estándar Q": 0.0,
+          "Cantidad real": 0.0,
+          "Precio real Q": 0.0,
+          "Proveedor": ""
+        },
+        {
+          "Ingrediente": "Vainilla",
+          "Unidad": "ml",
+          "Cantidad estándar": 10,
+          "Precio estándar Q": 0.0,
+          "Cantidad real": 0.0,
+          "Precio real Q": 0.0,
+          "Proveedor": ""
+        },
+        {
+          "Ingrediente": "Fresas frescas",
+          "Unidad": "g",
+          "Cantidad estándar": 500,
+          "Precio estándar Q": 0.0,
+          "Cantidad real": 0.0,
+          "Precio real Q": 0.0,
+          "Proveedor": ""
+        },
+        {
+          "Ingrediente": "Crema para batir",
+          "Unidad": "ml",
+          "Cantidad estándar": 750,
+          "Precio estándar Q": 0.0,
+          "Cantidad real": 0.0,
+          "Precio real Q": 0.0,
+          "Proveedor": ""
+        },
+        {
+          "Ingrediente": "Azúcar glass",
+          "Unidad": "g",
+          "Cantidad estándar": 100,
+          "Precio estándar Q": 0.0,
+          "Cantidad real": 0.0,
+          "Precio real Q": 0.0,
+          "Proveedor": ""
+        },
+        {
+          "Ingrediente": "Base para pastel",
+          "Unidad": "unidad",
+          "Cantidad estándar": 1,
+          "Precio estándar Q": 0.0,
+          "Cantidad real": 0.0,
+          "Precio real Q": 0.0,
+          "Proveedor": ""
+        },
+        {
+          "Ingrediente": "Caja para pastel",
+          "Unidad": "unidad",
+          "Cantidad estándar": 1,
+          "Precio estándar Q": 0.0,
+          "Cantidad real": 0.0,
+          "Precio real Q": 0.0,
+          "Proveedor": ""
+        }
+      ],
+      "mano_obra": [
+        {
+          "Actividad": "Preparación y horneado",
+          "Horas estándar por unidad": 0.0,
+          "Tarifa estándar Q": 0.0,
+          "Horas reales totales": 0.0,
+          "Tarifa real Q": 0.0
+        },
+        {
+          "Actividad": "Decoración y empaque",
+          "Horas estándar por unidad": 0.0,
+          "Tarifa estándar Q": 0.0,
+          "Horas reales totales": 0.0,
+          "Tarifa real Q": 0.0
+        }
+      ],
+      "cif": {
+        "Variable estándar por unidad": 0.0,
+        "Fijo estándar del período": 0.0,
+        "Variable real total": 0.0,
+        "Fijo real total": 0.0
+      }
+    }
+  }
+}

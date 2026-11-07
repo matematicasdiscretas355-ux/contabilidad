@@ -1,0 +1,93 @@
+{
+  "producto": "Cupcakes de Vainilla (Caja de 6)",
+  "unidades_caja": 6,
+  "cajas": 100,
+  "precio": 75.0,
+  "crecimiento": 10.0,
+  "ingredientes": [
+    {
+      "Insumo": "Harina",
+      "Cantidad por caja": 0,
+      "Precio por unidad de compra": 0.0,
+      "Unidades aprovechables por compra": 1.0,
+      "Fuente / proveedor": "Pendiente"
+    },
+    {
+      "Insumo": "Azúcar",
+      "Cantidad por caja": 0,
+      "Precio por unidad de compra": 0.0,
+      "Unidades aprovechables por compra": 1.0,
+      "Fuente / proveedor": "Pendiente"
+    },
+    {
+      "Insumo": "Huevos",
+      "Cantidad por caja": 0,
+      "Precio por unidad de compra": 0.0,
+      "Unidades aprovechables por compra": 1.0,
+      "Fuente / proveedor": "Pendiente"
+    },
+    {
+      "Insumo": "Leche",
+      "Cantidad por caja": 0,
+      "Precio por unidad de compra": 0.0,
+      "Unidades aprovechables por compra": 1.0,
+      "Fuente / proveedor": "Pendiente"
+    },
+    {
+      "Insumo": "Mantequilla",
+      "Cantidad por caja": 0,
+      "Precio por unidad de compra": 0.0,
+      "Unidades aprovechables por compra": 1.0,
+      "Fuente / proveedor": "Pendiente"
+    },
+    {
+      "Insumo": "Capacillos (unidades)",
+      "Cantidad por caja": 6,
+      "Precio por unidad de compra": 0.0,
+      "Unidades aprovechables por compra": 1.0,
+      "Fuente / proveedor": "Pendiente"
+    },
+    {
+      "Insumo": "Caja para 6 cupcakes",
+      "Cantidad por caja": 1,
+      "Precio por unidad de compra": 0.0,
+      "Unidades aprovechables por compra": 1.0,
+      "Fuente / proveedor": "Pendiente"
+    }
+  ],
+  "labor": [
+    {
+      "Actividad": "Preparación y horneado",
+      "Horas por lote": 0.0,
+      "Costo por hora (Q)": 0.0
+    },
+    {
+      "Actividad": "Decoración y empaque",
+      "Horas por lote": 0.0,
+      "Costo por hora (Q)": 0.0
+    }
+  ],
+  "cajas_lote": 100,
+  "indirectos": [
+    {
+      "Concepto": "Electricidad variable",
+      "Tipo": "Variable por caja",
+      "Monto (Q)": 0.0
+    },
+    {
+      "Concepto": "Agua variable",
+      "Tipo": "Variable por caja",
+      "Monto (Q)": 0.0
+    },
+    {
+      "Concepto": "Depreciación de equipo",
+      "Tipo": "Fijo del período",
+      "Monto (Q)": 0.0
+    },
+    {
+      "Concepto": "Alquiler del área de producción",
+      "Tipo": "Fijo del período",
+      "Monto (Q)": 0.0
+    }
+  ]
+}
